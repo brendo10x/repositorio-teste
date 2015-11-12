@@ -1,11 +1,10 @@
 package testes;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-public class TesteProjeto {
-
+public class ProjetoDeTeste {
 	@Test
 	public void teste1() {
 
